@@ -50,7 +50,7 @@ If you use this framework or code in your research, please cite our paper draft:
   author={Barış Can Tayiz},
   year={2026},
   publisher={Zenodo},
-  doi={10.5281/zenodo.24268017},
-  url={https://doi.org/10.5281/zenodo.24268017}
+  doi={10.5281/zenodo.24268421},
+  url={https://doi.org/10.5281/zenodo.24268421}
 }
 
