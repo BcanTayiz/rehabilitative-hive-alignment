@@ -38,4 +38,19 @@ Traditional multi-agent simulations often rely on binary, punitive exclusion ("z
 │   ├── rehabilitative_hive_analysis.png
 ```
 
+---
+
+## 📄 Citation
+
+If you use this framework or code in your research, please cite our paper draft:
+
+```bibtex
+@software{rehabilitative_hive_alignment,
+  title={Moral Hive Simulation: Adaptive Multi-Agent Alignment & Rehabilitative Dynamics},
+  author={Barış Can Tayiz},
+  year={2026},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.24268017},
+  url={https://doi.org/10.5281/zenodo.24268017}
+}
 
